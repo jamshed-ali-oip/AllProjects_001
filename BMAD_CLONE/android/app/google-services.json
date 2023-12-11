@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098656397877",
+    "project_id": "bmad-9dc7a",
+    "storage_bucket": "bmad-9dc7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098656397877:android:d9498fb3f64444a6500f7c",
+        "android_client_info": {
+          "package_name": "com.bmad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbRwkzAwbSqoLZa4QZfcMVCaYNzpmOTog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

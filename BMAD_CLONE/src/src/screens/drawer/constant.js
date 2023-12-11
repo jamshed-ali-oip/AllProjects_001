@@ -1,0 +1,33 @@
+export const colors = {
+  primary: 'yellow',
+  primaryDark: '#039a83',
+  normal: '#b0e6fd',
+  important: '#e892ab',
+  icon1: '#ea7a72',
+  icon2: '#f8c907',
+  icon3: '#82a7c9',
+  icon4: '#c2c5d1',
+  light: '#f0f0f0',
+  gray: '#CCCCCC',
+  darkGray: '#999999',
+  dark: '#123',
+  black: '#000',
+  white: 'white',
+  active: '#05294a99',
+  sceneBg: '#B01125',
+  screenBg: '#05294a',
+  lightGray: '#c4c4c4',
+  themeblue: '#B01125'
+}
+
+export const constant = {
+  SPACING: 16,
+  borderRadius: 10,
+  titleFontSize: 24,
+  textFontSize: 16,
+  subTextFontSize: 14,
+}
+
+
+
+

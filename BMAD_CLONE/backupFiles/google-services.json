@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415701697665",
+    "firebase_url": "https://bmad-351505-default-rtdb.firebaseio.com",
+    "project_id": "bmad-351505",
+    "storage_bucket": "bmad-351505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415701697665:android:a141039c5b4e2e773d7980",
+        "android_client_info": {
+          "package_name": "com.bmad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415701697665-ku19i38p7vv280urcpmgsnc0ocvja0uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmad",
+            "certificate_hash": "e331d8c749fa0c03f017c4fb4e275e68f91cfc85"
+          }
+        },
+        {
+          "client_id": "415701697665-t9h3qorn9tu9u94a8ln257b57eggvuon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-DghL2vipjVFt8prDtKwL-ivAJPS2IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415701697665-t9h3qorn9tu9u94a8ln257b57eggvuon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

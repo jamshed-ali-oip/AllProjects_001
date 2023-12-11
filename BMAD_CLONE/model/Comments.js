@@ -1,0 +1,9 @@
+export default comments = [
+        {id:1, image: require('./../src/Assets/Images/pic5.png'), name:"Frank Odalthh", time: "9:58 am",     comment:"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."},
+        {id:2, image: require('./../src/Assets/Images/pic4.png'), name:"John DoeLink", time: "9:58 am",      comment:"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."},
+        {id:3, image: require('./../src/Assets/Images/pic3.png'), name:"March SoulLaComa", time: "9:58 am",   comment:"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."},
+        {id:4, image: require('./../src/Assets/Images/pic2.png'), name:"Finn DoRemiFaso", time: "9:58 am",    comment:"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."},
+        {id:5, image: require('./../src/Assets/Images/pic1.png'), name:"Maria More More", time: "9:58 am",    comment:"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."},
+        {id:6, image: require('./../src/Assets/Images/pic3.png'), name:"Clark June Boom!", time: "9:58 am",  comment:"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."},
+        {id:7, image: require('./../src/Assets/Images/pic2.png'), name:"The googler", time: "9:58 am",       comment:"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."},
+  ];

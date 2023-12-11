@@ -1,0 +1,150 @@
+import React from 'react';
+import { View, StyleSheet } from 'react-native';
+import {
+  DrawerItem,
+  DrawerContentScrollView,
+} from '@react-navigation/drawer';
+import {
+  useTheme,
+  Avatar,
+  Title,
+  Caption,
+  Paragraph,
+  Drawer,
+  Text,
+  TouchableRipple,
+  Switch,
+} from 'react-native-paper';
+import AppText from './Components/AppText';
+import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
+import Ionicons from 'react-native-vector-icons/Ionicons';
+import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
+
+import {widthPercentageToDP as wp, heightPercentageToDP as hp} from 'react-native-responsive-screen';
+export const DrawerContent= (props) => {
+    return (
+      <DrawerContentScrollView {...props}>
+      <View
+          style={
+            styles.drawerContent
+          }
+        >
+          <View style={styles.userInfoSection}>
+            <Avatar.Image
+              source={{
+                uri:
+                  'https://media-exp1.licdn.com/dms/image/C4D03AQGEtGMDS0-WCg/profile-displayphoto-shrink_200_200/0/1612093653899?e=1627516800&v=beta&t=Ukf1DPD4AjpQlv-gGMpmmNtj5e0O52ErdSwdLHl2fU8',
+              }}
+              style={{paddingLeft: 15, backgroundColor:'#E15B5C'}}
+              size={100}
+            />
+            <View style={{padding: 10}}>
+             <AppText nol={1} textAlign="left" family="Poppins-Regular" size={hp("3%")} color="white" Label={"Ahsan Muneer"} />
+             <AppText nol={1} textAlign="left" family="Poppins-Regular" size={hp("1.6%")} color="white" Label={"ahsanmuneer@gmail.com"} />
+            </View>
+          
+            {/* <View style={styles.row}>
+              <View style={styles.section}>
+                <Paragraph style={[styles.paragraph, styles.caption]}>
+                  202
+                </Paragraph>
+                <Caption style={styles.caption}>Following</Caption>
+              </View>
+              <View style={styles.section}>
+                <Paragraph style={[styles.paragraph, styles.caption]}>
+                  159
+                </Paragraph>
+                <Caption style={styles.caption}>Followers</Caption>
+              </View>
+            </View> */}
+          </View>
+          <Drawer.Section style={styles.drawerSection}>
+            <DrawerItem
+              icon={({ color, size }) => (
+                <Ionicons
+                  name="card-outline"
+                  color='white'
+                  size={35}
+                />
+              )}
+              labelStyle={{fontFamily: 'Poppins-SemiBold', color: 'white', fontSize: hp('2%')}}
+              label="Credit Cards"
+              onPress={() => props.navigation.navigate('stepOne')}
+            />
+            <DrawerItem
+              icon={({ color, size }) => (
+                <MaterialCommunityIcons
+                name="message"
+                color='white'
+                size={35}
+                 />
+              )}
+              labelStyle={{fontFamily: 'Poppins-SemiBold', color: 'white', fontSize: hp('2%')}}
+              label="Messages"
+              onPress={() => props.navigation.navigate('message')}
+            />
+            {/* <DrawerItem
+              icon={({ color, size }) => (
+                <MaterialIcons
+                  name="logout"
+                  color='white'
+                  size={35}
+                />
+
+              )}
+              labelStyle={{fontFamily: 'Poppins-SemiBold', color: 'white', fontSize: hp('2%')}}
+              label="Logout"
+              onPress={() => {}}
+            /> */}
+          </Drawer.Section>
+
+          
+       
+    
+        </View>
+      
+      </DrawerContentScrollView>
+    );
+  }
+
+
+  const styles = StyleSheet.create({
+    drawerContent: {
+      flex: 1,
+    },
+    userInfoSection: {
+      paddingLeft: 20,
+    },
+    title: {
+      marginTop: 20,
+      fontWeight: 'bold',
+    },
+    caption: {
+      fontSize: 14,
+      lineHeight: 14,
+    },
+    row: {
+      marginTop: 20,
+      flexDirection: 'row',
+      alignItems: 'center',
+    },
+    section: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      marginRight: 15,
+    },
+    paragraph: {
+      fontWeight: 'bold',
+      marginRight: 3,
+    },
+    drawerSection: {
+      marginTop: 15,
+    },
+    preference: {
+      flexDirection: 'row',
+      justifyContent: 'space-between',
+      paddingVertical: 12,
+      paddingHorizontal: 16,
+    },
+  });
+  
