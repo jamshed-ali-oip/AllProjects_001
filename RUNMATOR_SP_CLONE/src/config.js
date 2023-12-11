@@ -1,0 +1,1 @@
+export const PUB_KEY_STRIPE = 'pk_test_51NdhoxKMw2uXtEaBhWZgi8dIQtrhgUcNemYPHydzZanODwed7H0bWeuLOVPemadFsMe5jzOdy6xa2QxxN6G4XHV700zEZK6BJB';

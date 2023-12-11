@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "371750085282",
+    "project_id": "runmatermechanic",
+    "storage_bucket": "runmatermechanic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371750085282:android:a447ddcf1065e2eb4eadfb",
+        "android_client_info": {
+          "package_name": "com.runmatterserviceprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371750085282-e1lk8ae1jl329nvsdvqt951rgfp5pfj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.runmatterserviceprovider",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "371750085282-s86vgurrtolnl33ff3m89hv8inko1mmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.runmatterserviceprovider",
+            "certificate_hash": "05eadf35bf319a9e34a6aa8e6bdc2048e204ec7d"
+          }
+        },
+        {
+          "client_id": "371750085282-mg9fnf0378papuhjkc9g0lbh4lhh53mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiIfL2BnHnNT9VMg-qtpA8VeJRwkfjsHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371750085282-mg9fnf0378papuhjkc9g0lbh4lhh53mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
