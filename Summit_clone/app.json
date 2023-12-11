@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "summit-app",
+    "slug": "summit-app",
+    "version": "0.0.7",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "plugins": [
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow $(PRODUCT_NAME) to access your photos.",
+          "savePhotosPermission": "Allow $(PRODUCT_NAME) to save photos.",
+          "isAccessMediaLocationEnabled": true
+        }
+      ]
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.mushfiqweb.summitapp",
+      "buildNumber": "0.0.7",
+      "supportsTablet": true,
+      "infoPlist":{
+        "NSRemindersUsageDescription":"To save events and sessions related to the application",
+        "NSCameraUsageDescription": "The application requires access to your camera to take a photo.",
+        "NSPhotoLibraryUsageDescription": "The application requires access to your photos to allow you to upload pictures."
+      },
+      "icon": "./assets/icon.png"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "permissions":["READ_CALENDAR", "WRITE_CALENDAR"],
+      "package": "com.mushfiqweb.summitapp",
+      "versionCode": 7
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "notification": {
+      "color": "#9D0511",
+      "icon": "./assets/icon.png"
+    }
+  }
+}
