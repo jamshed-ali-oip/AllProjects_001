@@ -1,0 +1,1 @@
+export const themePurple = '#7124BC'
