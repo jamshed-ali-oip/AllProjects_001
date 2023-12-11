@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "280579602525",
+    "project_id": "iatdoor-ef764",
+    "storage_bucket": "iatdoor-ef764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280579602525:android:823fd3c01c56d6867635b4",
+        "android_client_info": {
+          "package_name": "com.iatdoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280579602525-5btjjso7qn1icqsqb560ghtqrkchh9b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iatdoor",
+            "certificate_hash": "cbee5dde739afbd5925d72eebb6269152ad5442f"
+          }
+        },
+        {
+          "client_id": "280579602525-jd20ssq3qo3e0ie6i6f9i1locrhejqgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iatdoor",
+            "certificate_hash": "376a48b6332c1cac982aadbc1d3e6a77b2c929a0"
+          }
+        },
+        {
+          "client_id": "280579602525-lumu44h3cbnre201tgi346orjujnshlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD55C8TZ9MIrQ6qtp1XXP1CYXrU3_I28OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280579602525-lumu44h3cbnre201tgi346orjujnshlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+diff --git a/node_modules/react-native-video/android/build/intermediates/aar_metadata/debug/aar-metadata.properties b/node_modules/react-native-video/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+new file mode 100644
+index 0000000..d8560bd
+--- /dev/null
++++ b/node_modules/react-native-video/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+@@ -0,0 +1,2 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
