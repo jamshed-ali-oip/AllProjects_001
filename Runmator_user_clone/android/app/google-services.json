@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "835877004640",
+    "project_id": "runmatoruser",
+    "storage_bucket": "runmatoruser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835877004640:android:7b35f588b11dd148df2a05",
+        "android_client_info": {
+          "package_name": "com.runmatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835877004640-4j6vsjnl60dd3a71a69kpnkj1sbesg20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.runmatter",
+            "certificate_hash": "457370ce7422832c55451a44e533e524905be66c"
+          }
+        },
+        {
+          "client_id": "835877004640-aar0q3eh9f3s8k8tafvs32f2he210gd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.runmatter",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "835877004640-c82n8njmb1cqru1sbauekds3vl1qq3s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC82ssaCIMmrBD4InZIJvMeToSnIwGRf8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835877004640-c82n8njmb1cqru1sbauekds3vl1qq3s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
