@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266868601719",
+    "firebase_url": "https://askip-notifications-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "askip-notifications",
+    "storage_bucket": "askip-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266868601719:android:657715516e8045bc65e772",
+        "android_client_info": {
+          "package_name": "com.askip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266868601719-tblhvmgpitfaqa3r7pug73cp51sef3u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATURZnsHGjfo18v0QjeA92cri8vRQTUKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266868601719-tblhvmgpitfaqa3r7pug73cp51sef3u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

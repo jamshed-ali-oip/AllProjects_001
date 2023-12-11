@@ -1,0 +1,166 @@
+
+{
+    "Question1":[
+        {     
+            "id":1,  
+            "name":"Oui"
+        },
+        {     
+            "id":2,  
+            "name":"Non"
+        }
+    ],
+    "Question2":[
+        {
+            "id":1,
+            "name":"Dudley"
+        },
+        {
+            "id":2,
+            "name":"Myriam"
+        },{
+            "id":3,
+            "name":"Tita"
+        },{
+            "id":4,
+            "name":"Affande"
+        },{
+            "id":5,
+            "name":"Ramzi"
+        },{
+            "id":6,
+            "name":"Elies"
+        },{
+            "id":7,
+            "name":"Autre"
+        }
+    ],
+    "Question3":[
+        {
+            "id":1,
+            "name":"Oui, à la mission locale"
+        },
+        {
+            "id":2,
+            "name":"Oui, à pôle emploi"
+        },
+        {
+            "id":3,
+            "name":"Aucun"
+        }
+    ],
+    "Question4":[
+        {
+            "id":1,
+            "name":"à l'emploi"
+        },
+        {
+            "id":2,
+            "name":"à la création d'entreprise"
+        },
+        {
+            "id":3,
+            "name":"à la reprise de formation"
+        },
+        {
+            "id":4,
+            "name":"au social"
+        },{
+            "id":5,
+            "name":"Autre"
+        }
+    ],
+    "Question5":[
+        {
+            "id":1,
+            "name":"Emploi"
+        },
+        {
+            "id":2,
+            "name":"Entreprenariat"
+        },
+        {
+            "id":3,
+            "name":"Reprise d'étude/formation"
+        }
+    ],
+    "Question6":[
+        {
+            "id":1,
+            "name":"Brevet des collèges"
+        },
+        {
+            "id":2,
+            "name":"CAP"
+        },
+        {
+            "id":3,
+            "name":"BAC/BAC Pro"
+        },
+        {
+            "id":4,
+            "name":"BTS/Licence"
+        },{
+            "id":5,
+            "name":"Master"
+        },
+        {
+            "id":6,
+            "name":"Aucun"
+        }
+    ],
+    "Question7":[
+        {
+            "id":1,
+            "name":"En emploi"
+        },
+        {
+            "id":2,
+            "name":"En formation"
+        },
+        {
+            "id":3,
+            "name":"École/étude"
+        },
+        {
+            "id":4,
+            "name":"Sans activité professionnelle"
+        }
+    ],
+    "Gender":[
+        {
+            "id":1,
+            "name":"Homme"
+        },
+        {
+            "id":2,
+            "name":"Femme"
+        },
+        {
+            "id":3,
+            "name":"Autre"
+        },
+        {
+            "id":4,
+            "name":"Non précisé"
+        }
+    ],
+    "Austre":[
+        {
+            "id":1,
+            "name":"iel"
+        },
+        {
+            "id":2,
+            "name":"il"
+        },
+        {
+            "id":3,
+            "name":"elle"
+        }
+    
+    ]
+     
+    
+    
+}

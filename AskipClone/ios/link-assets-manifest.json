@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/Fonts/Bebas Neue Pro Bold Italic.otf",
+      "sha1": "fec786b71404079026a276391510799833e745ea"
+    },
+    {
+      "path": "src/assets/Fonts/Bebas Neue Pro Bold.otf",
+      "sha1": "618701730e0fa76fef67990af4e38f2edb6d84ac"
+    },
+    {
+      "path": "src/assets/Fonts/Bebas Neue Pro Book Italic.otf",
+      "sha1": "cc0f30aed6823d7c61a3c2890be88e03a45a511b"
+    },
+    {
+      "path": "src/assets/Fonts/Bebas Neue Pro Book.otf",
+      "sha1": "e595aa964a1d5d20774902b877ea995a5bad3572"
+    },
+    {
+      "path": "src/assets/Fonts/Bebas Neue Pro Italic.otf",
+      "sha1": "553f5f5df8b8026337779625e9f70cfb5e41b378"
+    },
+    {
+      "path": "src/assets/Fonts/Bebas Neue Pro Light Italic.otf",
+      "sha1": "42b74e157d9772a8d2b29f07c4a68ac3c90f2a48"
+    },
+    {
+      "path": "src/assets/Fonts/Bebas Neue Pro Light.otf",
+      "sha1": "2527346573eff0b26751a4ecdd089d99d5a0c584"
+    },
+    {
+      "path": "src/assets/Fonts/Bebas Neue Pro Regular.otf",
+      "sha1": "c623eb8f2f5e9d0ce0ae953409a949db05977ef9"
+    },
+    {
+      "path": "src/assets/Fonts/Bebas Neue Pro Thin Italic.otf",
+      "sha1": "11b8f426f0410af54fb329f9df6ff632393b3a26"
+    },
+    {
+      "path": "src/assets/Fonts/Bebas Neue Pro Thin.otf",
+      "sha1": "53ab6ce740e1ee2e3cbb896cb3d9e6d59a0d25a7"
+    },
+    {
+      "path": "src/assets/Fonts/bebas-neue-pro-regular.otf",
+      "sha1": "c623eb8f2f5e9d0ce0ae953409a949db05977ef9"
+    }
+  ]
+}

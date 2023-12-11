@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>266868601719-jnedppfj27dh1qol9b5pusdnhh3iaau7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.266868601719-jnedppfj27dh1qol9b5pusdnhh3iaau7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfns_hd9m1nA9_TJre06t8YACxS9cUSRs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>266868601719</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.askip-app.fr</string>
+	<key>PROJECT_ID</key>
+	<string>askip-notifications</string>
+	<key>STORAGE_BUCKET</key>
+	<string>askip-notifications.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:266868601719:ios:fa39d6d478fd37b565e772</string>
+	<key>DATABASE_URL</key>
+	<string>https://askip-notifications-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
